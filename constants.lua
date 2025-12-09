@@ -1,5 +1,5 @@
 ---@diagnostic disable: lowercase-global
-terminal = "kitty"
+terminal = "alacritty"
 editor = "nvim"
 editor_cmd = terminal .. " -e " .. editor
 modkey = "Mod4"
